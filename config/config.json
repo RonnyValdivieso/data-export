@@ -1,0 +1,11 @@
+{
+	"development": {
+		"db": {
+			"host": "localhost",
+			"user": "root",
+			"password": "",
+			"database": ""
+		},
+		"port":5000
+	}
+}
